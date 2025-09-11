@@ -28,20 +28,18 @@
 
 ## 📂 Projets GitHub  
 
-🔹 **[Système de Matching Emploi ↔ CV](https://github.com/ton-profil/matching-cv-offres)**  
+🔹 **[Système de Matching Emploi ↔ CV](https://github.com/ibra100gare/job-matching-project-webscraping)**  
 📌 Application Flask & Streamlit qui compare un CV aux offres d’emploi stockées en base de données (MySQL) grâce à une extraction de mots-clés.  
 
-🔹 **[Automatisation de Rapports de Ventes](https://github.com/ton-profil/ventes-automation)**  
+🔹 **[Automatisation de Rapports de Ventes](https://github.com/ibra100gare/chinook-sales-automation)**  
 📌 Projet d’automatisation avec Python & SQL sur la base **Chinook DB**, permettant la génération de rapports mensuels et visuels interactifs.  
 
-🔹 **[API de Déploiement de Modèles ML](https://github.com/ton-profil/ml-model-api)**  
+🔹 **[API de Déploiement de Modèles ML](https://github.com/ibra100gare/projetDeploiementModeleRegessionLogistique)**  
 📌 API Flask pour exposer un modèle Machine Learning et effectuer des prédictions en temps réel.  
 
-🔹 **[Analyse de Données IoT](https://github.com/ton-profil/iot-data-analysis)**  
+🔹 **[Analyse de Données IoT](https://github.com/ibra100gare/notebooks-analyse-miFitness-data)**  
 📌 Analyse et visualisation des données collectées à partir de montres connectées (Python, Pandas, Matplotlib).  
 
-🔹 **[Application de Gestion Associative](https://github.com/ton-profil/gestion-association)**  
-📌 Développée en **Laravel, PHP, MySQL**, cette application gère les membres, cotisations et événements d’une association.  
 
 ---
 
