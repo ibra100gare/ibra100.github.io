@@ -1,0 +1,25 @@
+title: "Portfolio - Brehima Sangaré"
+logo: img/ibra.jpg
+description: "Data Analyst | Data Scientist en devenir | Ingénieur Reporting & Éditique"
+show_downloads: false
+google_analytics: # ajoute ton ID si tu veux suivre les visites
+
+# Thème
+theme: jekyll-theme-minimal
+
+# Auteur
+author:
+  name: "Brehima Sangaré"
+  email: "m100gare@gmail.com"
+
+# Réseaux sociaux
+social_links:
+  github: https://github.com/ibra100gare
+  linkedin: https://www.linkedin.com/in/brehima-sangare-726291210/
+  email: m100gare@gmail.coM
+
+# Markdown & plugins
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
