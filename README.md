@@ -1,7 +1,5 @@
 # 👋 Salut, je suis Brehima Sangaré  
 
-🎯 **Data Analyst | Data Scientist en devenir | Ingénieur Reporting & Éditique @ SGABS**  
-
 💡 Passionné par la donnée, je transforme les chiffres en insights utiles pour la prise de décision.  
 📍 Basé en Côte d’Ivoire, disponible pour des collaborations internationales.  
 
@@ -54,7 +52,7 @@
 ## 📬 Contact  
 - 📧 Email : **m100gare@gmail.com**  
 - 📱 Téléphone : **+225 07 57 57 1999**  
-- 💼 LinkedIn : [linkedin.com/in/ibrahim-sangare](https://linkedin.com/in/ibrahim-sangare)  
+- 💼 LinkedIn : [linkedin.com/in/brehima-sangare](https://www.linkedin.com/in/brehima-sangare-726291210/)  
 - 🌐 Portfolio : *En cours de mise en ligne*  
 
 ---
