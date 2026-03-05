@@ -53,7 +53,7 @@
 - 📧 Email : **m100gare@gmail.com**  
 - 📱 Téléphone : **+225 07 57 57 1999**  
 - 💼 LinkedIn : [linkedin.com/in/brehima-sangare](https://www.linkedin.com/in/brehima-sangare-726291210/)  
-- 🌐 Portfolio : *En cours de mise en ligne*  
+- 🌐 Portfolio : [*En cours de mise en ligne*](https://github.com/ibra100gare/ibra100.github.io)  
 
 ---
 
